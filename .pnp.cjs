@@ -58,7 +58,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nock", "npm:13.2.2"],
             ["rimraf", "npm:3.0.2"],
             ["ts-jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:27.1.3"],
-            ["ts-retry-promise", "npm:0.6.0"],
+            ["ts-retry-promise", "npm:0.6.1"],
             ["typescript", "patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=493e53"]
           ],
           "linkType": "SOFT",
@@ -5544,7 +5544,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nock", "npm:13.2.2"],
             ["rimraf", "npm:3.0.2"],
             ["ts-jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:27.1.3"],
-            ["ts-retry-promise", "npm:0.6.0"],
+            ["ts-retry-promise", "npm:0.6.1"],
             ["typescript", "patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=493e53"]
           ],
           "linkType": "SOFT",
@@ -6764,10 +6764,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["ts-retry-promise", [
-        ["npm:0.6.0", {
-          "packageLocation": "./.yarn/cache/ts-retry-promise-npm-0.6.0-e25420f6ae-a8b2c88402.zip/node_modules/ts-retry-promise/",
+        ["npm:0.6.1", {
+          "packageLocation": "./.yarn/cache/ts-retry-promise-npm-0.6.1-c5b592f257-399ac64e87.zip/node_modules/ts-retry-promise/",
           "packageDependencies": [
-            ["ts-retry-promise", "npm:0.6.0"]
+            ["ts-retry-promise", "npm:0.6.1"]
           ],
           "linkType": "HARD",
         }]
