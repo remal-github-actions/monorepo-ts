@@ -55,7 +55,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:25.7.0"],
             ["jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:27.4.7"],
             ["jest-circus", "npm:27.4.6"],
-            ["nock", "npm:13.2.2"],
+            ["nock", "npm:13.2.4"],
             ["rimraf", "npm:3.0.2"],
             ["ts-jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:27.1.3"],
             ["ts-retry-promise", "npm:0.6.0"],
@@ -5541,7 +5541,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:25.7.0"],
             ["jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:27.4.7"],
             ["jest-circus", "npm:27.4.6"],
-            ["nock", "npm:13.2.2"],
+            ["nock", "npm:13.2.4"],
             ["rimraf", "npm:3.0.2"],
             ["ts-jest", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:27.1.3"],
             ["ts-retry-promise", "npm:0.6.0"],
@@ -5592,10 +5592,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["nock", [
-        ["npm:13.2.2", {
-          "packageLocation": "./.yarn/cache/nock-npm-13.2.2-12d0fe7156-cc1bf6e4bb.zip/node_modules/nock/",
+        ["npm:13.2.4", {
+          "packageLocation": "./.yarn/cache/nock-npm-13.2.4-f1ad2d6861-2750a82ea2.zip/node_modules/nock/",
           "packageDependencies": [
-            ["nock", "npm:13.2.2"],
+            ["nock", "npm:13.2.4"],
             ["debug", "virtual:e5e72b8ce4b39c9ab6a47d8d08d725dccb716bd95217c12bbc98e5d3a6b7a9c0525366241540ebcfaa8e5f425c3ad207e651c3544a3bc8b2bdf38c619d2d3045#npm:4.3.3"],
             ["json-stringify-safe", "npm:5.0.1"],
             ["lodash.set", "npm:4.3.2"],
