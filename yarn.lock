@@ -945,7 +945,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/eslint@npm:^8":
+"@types/eslint@npm:8.4.1":
   version: 8.4.1
   resolution: "@types/eslint@npm:8.4.1"
   dependencies:
@@ -1058,7 +1058,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/rimraf@npm:^3":
+"@types/rimraf@npm:3.0.2":
   version: 3.0.2
   resolution: "@types/rimraf@npm:3.0.2"
   dependencies:
@@ -4207,10 +4207,10 @@ __metadata:
     "@octokit/plugin-retry": 3.0.9
     "@octokit/plugin-throttling": 3.5.2
     "@tsconfig/node16": 1.0.2
-    "@types/eslint": ^8
+    "@types/eslint": 8.4.1
     "@types/jest": 27.4.0
     "@types/node": 16.11.21
-    "@types/rimraf": ^3
+    "@types/rimraf": 3.0.2
     "@typescript-eslint/eslint-plugin": 5.10.0
     "@typescript-eslint/parser": 5.10.0
     "@vercel/ncc": 0.33.1

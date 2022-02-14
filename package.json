@@ -16,10 +16,10 @@
   },
   "devDependencies": {
     "@tsconfig/node16": "1.0.2",
-    "@types/eslint": "^8",
+    "@types/eslint": "8.4.1",
     "@types/jest": "27.4.0",
     "@types/node": "16.11.21",
-    "@types/rimraf": "^3",
+    "@types/rimraf": "3.0.2",
     "@typescript-eslint/eslint-plugin": "5.10.0",
     "@typescript-eslint/parser": "5.10.0",
     "@vercel/ncc": "0.33.1",
