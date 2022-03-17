@@ -40,7 +40,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@actions/http-client", "npm:1.0.11"],
             ["@octokit/plugin-request-log", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:1.0.4"],
             ["@octokit/plugin-retry", "npm:3.0.9"],
-            ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.5.2"],
+            ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.6.2"],
             ["@tsconfig/node16", "npm:1.0.2"],
             ["@types/eslint", "npm:8.4.1"],
             ["@types/jest", "npm:27.4.0"],
@@ -1338,17 +1338,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@octokit/plugin-throttling", [
-        ["npm:3.5.2", {
-          "packageLocation": "./.yarn/cache/@octokit-plugin-throttling-npm-3.5.2-5ea86527ce-5b4339d121.zip/node_modules/@octokit/plugin-throttling/",
+        ["npm:3.6.2", {
+          "packageLocation": "./.yarn/cache/@octokit-plugin-throttling-npm-3.6.2-141eaa82f8-69bd8b5166.zip/node_modules/@octokit/plugin-throttling/",
           "packageDependencies": [
-            ["@octokit/plugin-throttling", "npm:3.5.2"]
+            ["@octokit/plugin-throttling", "npm:3.6.2"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.5.2", {
-          "packageLocation": "./.yarn/__virtual__/@octokit-plugin-throttling-virtual-af0508d761/0/cache/@octokit-plugin-throttling-npm-3.5.2-5ea86527ce-5b4339d121.zip/node_modules/@octokit/plugin-throttling/",
+        ["virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.6.2", {
+          "packageLocation": "./.yarn/__virtual__/@octokit-plugin-throttling-virtual-0f6052dad5/0/cache/@octokit-plugin-throttling-npm-3.6.2-141eaa82f8-69bd8b5166.zip/node_modules/@octokit/plugin-throttling/",
           "packageDependencies": [
-            ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.5.2"],
+            ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.6.2"],
             ["@octokit/core", null],
             ["@octokit/types", "npm:6.34.0"],
             ["@types/octokit__core", null],
@@ -5526,7 +5526,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@actions/http-client", "npm:1.0.11"],
             ["@octokit/plugin-request-log", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:1.0.4"],
             ["@octokit/plugin-retry", "npm:3.0.9"],
-            ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.5.2"],
+            ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.6.2"],
             ["@tsconfig/node16", "npm:1.0.2"],
             ["@types/eslint", "npm:8.4.1"],
             ["@types/jest", "npm:27.4.0"],
