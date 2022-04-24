@@ -48,7 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/rimraf", "npm:3.0.2"],
             ["@typescript-eslint/eslint-plugin", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:5.10.0"],
             ["@typescript-eslint/parser", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:5.10.0"],
-            ["@vercel/ncc", "npm:0.33.1"],
+            ["@vercel/ncc", "npm:0.33.4"],
             ["eslint", "npm:8.7.0"],
             ["eslint-config-prettier", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:8.3.0"],
             ["eslint-plugin-github", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:4.3.5"],
@@ -1954,10 +1954,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@vercel/ncc", [
-        ["npm:0.33.1", {
-          "packageLocation": "./.yarn/cache/@vercel-ncc-npm-0.33.1-63d0761dde-62af9ce257.zip/node_modules/@vercel/ncc/",
+        ["npm:0.33.4", {
+          "packageLocation": "./.yarn/cache/@vercel-ncc-npm-0.33.4-6c7bae9624-e6093efc3b.zip/node_modules/@vercel/ncc/",
           "packageDependencies": [
-            ["@vercel/ncc", "npm:0.33.1"],
+            ["@vercel/ncc", "npm:0.33.4"],
             ["node-gyp", "npm:8.4.1"]
           ],
           "linkType": "HARD",
@@ -5534,7 +5534,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/rimraf", "npm:3.0.2"],
             ["@typescript-eslint/eslint-plugin", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:5.10.0"],
             ["@typescript-eslint/parser", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:5.10.0"],
-            ["@vercel/ncc", "npm:0.33.1"],
+            ["@vercel/ncc", "npm:0.33.4"],
             ["eslint", "npm:8.7.0"],
             ["eslint-config-prettier", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:8.3.0"],
             ["eslint-plugin-github", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:4.3.5"],
