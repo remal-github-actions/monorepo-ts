@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@actions/core", "npm:1.6.0"],
+            ["@actions/core", "npm:1.8.2"],
             ["@actions/github", "npm:5.0.0"],
             ["@actions/http-client", "npm:1.0.11"],
             ["@octokit/plugin-request-log", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:1.0.4"],
@@ -65,11 +65,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@actions/core", [
-        ["npm:1.6.0", {
-          "packageLocation": "./.yarn/cache/@actions-core-npm-1.6.0-a2628c48cb-ac4689b609.zip/node_modules/@actions/core/",
+        ["npm:1.8.2", {
+          "packageLocation": "./.yarn/cache/@actions-core-npm-1.8.2-b3fc1a3b5f-1cd1a47f75.zip/node_modules/@actions/core/",
           "packageDependencies": [
-            ["@actions/core", "npm:1.6.0"],
-            ["@actions/http-client", "npm:1.0.11"]
+            ["@actions/core", "npm:1.8.2"],
+            ["@actions/http-client", "npm:2.0.1"]
           ],
           "linkType": "HARD",
         }]
@@ -92,6 +92,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@actions-http-client-npm-1.0.11-f7fe88143c-2c72834ec3.zip/node_modules/@actions/http-client/",
           "packageDependencies": [
             ["@actions/http-client", "npm:1.0.11"],
+            ["tunnel", "npm:0.0.6"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.0.1", {
+          "packageLocation": "./.yarn/cache/@actions-http-client-npm-2.0.1-8d69921341-799ec3df91.zip/node_modules/@actions/http-client/",
+          "packageDependencies": [
+            ["@actions/http-client", "npm:2.0.1"],
             ["tunnel", "npm:0.0.6"]
           ],
           "linkType": "HARD",
@@ -5521,7 +5529,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["monorepo", "workspace:."],
-            ["@actions/core", "npm:1.6.0"],
+            ["@actions/core", "npm:1.8.2"],
             ["@actions/github", "npm:5.0.0"],
             ["@actions/http-client", "npm:1.0.11"],
             ["@octokit/plugin-request-log", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:1.0.4"],
