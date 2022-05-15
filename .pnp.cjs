@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@actions/core", "npm:1.6.0"],
             ["@actions/github", "npm:5.0.0"],
-            ["@actions/http-client", "npm:1.0.11"],
+            ["@actions/http-client", "npm:2.0.1"],
             ["@octokit/plugin-request-log", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:1.0.4"],
             ["@octokit/plugin-retry", "npm:3.0.9"],
             ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.5.2"],
@@ -92,6 +92,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@actions-http-client-npm-1.0.11-f7fe88143c-2c72834ec3.zip/node_modules/@actions/http-client/",
           "packageDependencies": [
             ["@actions/http-client", "npm:1.0.11"],
+            ["tunnel", "npm:0.0.6"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.0.1", {
+          "packageLocation": "./.yarn/cache/@actions-http-client-npm-2.0.1-8d69921341-799ec3df91.zip/node_modules/@actions/http-client/",
+          "packageDependencies": [
+            ["@actions/http-client", "npm:2.0.1"],
             ["tunnel", "npm:0.0.6"]
           ],
           "linkType": "HARD",
@@ -5523,7 +5531,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["monorepo", "workspace:."],
             ["@actions/core", "npm:1.6.0"],
             ["@actions/github", "npm:5.0.0"],
-            ["@actions/http-client", "npm:1.0.11"],
+            ["@actions/http-client", "npm:2.0.1"],
             ["@octokit/plugin-request-log", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:1.0.4"],
             ["@octokit/plugin-retry", "npm:3.0.9"],
             ["@octokit/plugin-throttling", "virtual:153feba997cc61a3cf2b119c73f0a46150f4475b2449b54a9c09ded230a7e59552f9ddaa3d6273b9d60d464227c04336d4b04595bea51827334f0e7840915565#npm:3.5.2"],
